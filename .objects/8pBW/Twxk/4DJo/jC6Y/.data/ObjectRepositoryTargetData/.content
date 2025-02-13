@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oKMaxdfUTEC5JKFGBKFz3A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="146e24e0-c31e-4258-b5b9-8ac2c5f50ebd" CvTextArea="509, 625, 110, 78" CvType="AnyWordGroup" DesignTimeRectangle="513, 613, 107, 107" DesignTimeScaleFactor="2" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' type='' class='wob_t q8U8x' /&gt;" Guid="e1329b6e-c3f7-4319-a9d1-4249e71e127b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Weather in Luxembourg city in fahrenheit - Google Search' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2bcb121cd2c94cfe04987870f52ec2ef.png" xmlns="">0yKdS-J9lc0aoH4ETq8Oltw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
